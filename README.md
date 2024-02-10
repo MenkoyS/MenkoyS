@@ -6,6 +6,4 @@
 
 🚀 HTML, CSS, JavaScript
 
-🌐 Passionate about coding and technology
-
-✨ Open to all summer internship requests
+🌐 Passionate about coding and techno
