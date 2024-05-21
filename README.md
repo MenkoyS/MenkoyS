@@ -4,6 +4,6 @@
 
 💻 +5 years of experience in IT background
 
-🚀 HTML, CSS, JavaScript
+🚀 HTML, CSS, PHP, MySQL, JavaScript, C, Python 
 
 🌐 Passionate about coding and techno
