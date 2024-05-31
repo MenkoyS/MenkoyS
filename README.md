@@ -2,7 +2,7 @@
 
 🖥️ Student @Supinfo, 1st year, Bachelor of Engineering (BENG)
 
-💻 +5 years of experience in IT background
+💻 +4 years of experience in IT background
 
 🚀 HTML, CSS, PHP, MySQL, JavaScript, C, Python 
 
