@@ -1,4 +1,4 @@
-🎓 Yann Hobbe, 18 years old
+🎓 Yann Hobbe, 19 years old
 
 🖥️ Student @Supinfo, 1st year, Bachelor of Engineering (BENG)
 
