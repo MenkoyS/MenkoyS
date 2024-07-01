@@ -1,4 +1,6 @@
-🎓 Yann Hobbe, 19 years old
+🎓 Yann Hobbe, 19 years old, French.
+
+🗣 Fluently speaks French and English.
 
 🖥️ Student @Supinfo, 2nd year, Bachelor of Engineering (BENG)
 
