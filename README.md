@@ -6,6 +6,6 @@
 
 💻 +4 years of experience in IT background
 
-🚀 HTML, CSS, PHP, MySQL, JavaScript, C, Python 
+🚀 HTML, CSS, PHP, MySQL, JavaScript, C, Python, Linux/Windows, Powershell
 
 🌐 Passionate about coding and technos
