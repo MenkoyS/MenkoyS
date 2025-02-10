@@ -4,8 +4,8 @@
 
 🖥️ Student at @Supinfo, 2nd year, Bachelor of Engineering (BENG)
 
-💻 +4 years of experience in IT background
+💻 +5 years of experience in IT background
 
-🚀 HTML, CSS, PHP, MySQL, JavaScript, C, Python, Linux/Windows, Powershell
+🚀 HTML, CSS, PHP, MySQL, JavaScript, C , C++ (+SFML) , Java (+Swing), Python, Linux/Windows, Powershell
 
-🌐 Passionate about coding and technos
+🌐 Currently learning C# with the use of Unity Game Engine !
