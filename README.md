@@ -6,6 +6,6 @@
 
 💻 +5 years of experience in IT background
 
-🚀 HTML, CSS, PHP, MySQL, JavaScript, C , C++ (+SFML) , Java (+Swing), Python, Linux/Windows, Powershell
+🚀 HTML, CSS, PHP, MySQL, JavaScript, TypeScript, C , C++ (+SFML) , Java (+Swing), Python, Linux/Windows, Powershell
 
 🌐 Currently learning C# with the use of Unity Game Engine !
