@@ -1,6 +1,6 @@
 🎓 Yann Hobbe, 20 ans
 
-🖥️ Étudiant @Supinfo, 2ème année, Bachelor of Engineering (BENG)
+🖥️ Étudiant @Supinfo, 3ème année, Bachelor of Engineering (BENG)
 
 💻 +7 ans d'expérience en IT
 
