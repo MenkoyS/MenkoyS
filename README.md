@@ -1,10 +1,8 @@
 🎓 Yann Hobbe, 20 ans
 
-🖥️ Étudiant @Supinfo, 3ème année, Bachelor of Engineering (BENG)
+🖥️ Étudiant @Supinfo, 3ème année, Master of Engineering (MENG)
 
-💻 +7 ans d'expérience en IT
-
-🚀 Passionné de développement bas niveau, spécialisé dans le C, C++, C#
+💻 Je code depuis mes 13 ans, et c’est toujours une vraie passion ! Spécialisé en développement bas niveau.
 
 🛠️ Expérience avec des Game Engine comme Unity et Godot
 
