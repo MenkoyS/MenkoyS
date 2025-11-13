@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est **Yann**  
 
-🎓 **20 ans** – Étudiant @Supinfo, 3ème année, Master of Engineering (MENG)  
+🎓 **20 ans** - Étudiant @Supinfo, 3ème année, Master of Engineering (MENG)  
 📖 **En recherche d'alternance avant Decembre 2026** !  
 💻 Je code depuis mes 13 ans, et c’est toujours une **vraie** passion !  
 🛠️ Spécialisé en développement bas niveau et jeux vidéos, avec expérience sur **Unity**, **Godot**, **C#**, **C**, et **JavaScript**  
