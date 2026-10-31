@@ -1,12 +1,6 @@
-# 👋 Salut, moi c'est **Yann**
-
-🎓 **20 ans** – Étudiant @Supinfo, 3ème année, Master of Engineering (MENG)
+✨ Yann - 21 ans - Indie Game Dev - Vymia Studio
 
 🛠️ Spécialisé en développement bas niveau et jeux vidéo, focus sur performance, architecture, moteurs et tooling
-
-💼 Actuellement en alternance chez **Worldline**
-
-✨ Actuellement sur un **side project secret 🤫**
 
 ## 🖥️ Main Stack
 
